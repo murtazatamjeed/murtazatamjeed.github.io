@@ -1,8 +1,0 @@
----
-layout: default
-modal-id: ImgStract - Making the Web More Accessible
-date: 2014-07-17
-img: circus.png
-alt: image-alt
-description: This is a tool created to improve accessibility in images by extracting text within images, translating extracted text into 4 languages, detecting objects within images, and also being screenreader accessible.
----
