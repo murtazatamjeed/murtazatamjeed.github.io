@@ -1,8 +1,0 @@
----
-layout: default
-modal-id: DGS
-date: 2014-07-17
-img: cake.png
-alt: image-alt
-description: Description of Disabled Grad Students, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
----
