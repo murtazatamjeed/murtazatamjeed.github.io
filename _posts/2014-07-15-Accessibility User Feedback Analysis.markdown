@@ -7,7 +7,7 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: In recent years, mobile accessibility has become an important trend
+description: "In recent years, mobile accessibility has become an important trend
 with the goal of allowing all users the possibility of using any app
 without many limitations. User reviews include insights that are
 useful for app evolution. However, with the increase in the amount
@@ -22,5 +22,5 @@ mobile app reviews. The findings show that (1) our model can accurately identify
 namely keyword-based detector and a random classifier; (2) our
 model achieves an accuracy of 85% with relatively small training
 dataset; however, the accuracy improves as we increase the size of
-the training dataset.
+the training dataset."
 ---
