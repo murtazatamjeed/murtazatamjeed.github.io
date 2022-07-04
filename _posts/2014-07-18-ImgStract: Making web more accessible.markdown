@@ -4,9 +4,7 @@ modal-id: 1
 date: 2014-07-15
 img: imgstract.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+client: Click for more details
 description: "This tool aims at providing a solution to the lack
 of alternative text of images in the web, specifically images that
 contain text that is often ignored by developers and designers
