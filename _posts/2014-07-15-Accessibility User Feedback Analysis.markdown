@@ -4,9 +4,7 @@ modal-id: 5
 date: 2014-07-14
 img: feature.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+client: Clikc for more details 
 description: "In recent years, mobile accessibility has become an important trend
 with the goal of allowing all users the possibility of using any app
 without many limitations. User reviews include insights that are
