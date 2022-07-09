@@ -13,6 +13,12 @@ I'm also a researcher at the Center for Accessibility and Inclusion Research (CA
 Check out my CV for the full details." 
 
 
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <a href="https://github.com/jeromelachaud/freelancer-theme" class="btn btn-lg btn-outline">
+                        <i class="fa fa-download"></i> Download CV
+                    </a>
+                </div>
+
 meta_author: Tamjeed Murtaza
 
 # Google webmaster tools
