@@ -20,7 +20,7 @@ the text in the image and to translate the text to the desired
 language. Results from our usability testing indicate that such a
 tool is also relevant for people with no VIB as they often need
 the text from images encountered on the web, social media or
-messaging applications
+messaging applications"
 
-<a href="https://docs.google.com/presentation/d/1g-F7Dbn4SaPWt0pNzhK3ToMbCJxqhIBX/edit?usp=sharing&ouid=118208676521856678090&rtpof=true&sd=true">Click for more details.</a>"
+[For more details](https://docs.google.com/presentation/d/1g-F7Dbn4SaPWt0pNzhK3ToMbCJxqhIBX/edit?usp=sharing&ouid=118208676521856678090&rtpof=true&sd=true)
 ---
