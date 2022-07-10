@@ -3,17 +3,14 @@ layout: default
 modal-id: 2
 date: 2014-07-14
 img: feature.png
-alt: image-alt
-client: Clikc for more details 
-description: "In recent years, mobile accessibility has become an important trend
-with the goal of allowing all users the possibility of using any app
-without many limitations. User reviews include insights that are
-useful for app evolution. However, with the increase in the amount
+alt: Accessibility in User Feedback
+description: "User reviews include insights that are
+useful for product evolution. However, with the increase in the amount
 of received reviews, manually analyzing them is tedious and timeconsuming, especially when searching for accessibility reviews.
-The goal of this paper is to support the automated identification
+The goal of this project is to support the automated identification
 of accessibility in user reviews, to help technology professionals
 in prioritizing their handling, and thus, creating more inclusive
-apps. Particularly, we design a model that takes as input accessibility user reviews, learns their keyword-based features, in order to
+products. Particularly, we design a machine learning model that takes as input accessibility user reviews, learns their keyword-based features, in order to
 make a binary decision, for a given review, on whether it is about
 accessibility or not. The model is evaluated using a total of 5,326
 mobile app reviews. The findings show that (1) our model can accurately identify accessibility reviews, outperforming two baselines,
