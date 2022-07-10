@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2014-07-15
-img: imgstract.png
+img: imgstract1.png
 alt: Extract Text from Image
 description: "This tool aims at providing a solution to the lack
 of alternative text of images in the web, specifically images that
