@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2014-07-14
-img: feature.png
+img: feature1.png
 alt: Accessibility in User Feedback
 description: "User reviews include insights that are
 useful for product evolution. However, with the increase in the amount
